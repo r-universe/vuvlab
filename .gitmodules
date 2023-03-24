@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "FAIRmaterials"]
+	path = FAIRmaterials
+	url = https://github.com/cran/FAIRmaterials
+	shallow = true
+	registered = true
+[submodule "PVplr"]
+	path = PVplr
+	url = https://github.com/cran/PVplr
+	shallow = true
+	registered = true
